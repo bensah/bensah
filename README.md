@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nsah Bernard, MD
-- 👀 I’m interested in data-driven approaches in solving population health problems
+- 👀 I’m interested in data-driven approaches for solving population health problems
 - 🌱 I’m currently learning R Programming in Coursera & other MOOC platforms
 - 💞️ I’m looking to collaborate on R for statistics, software development, machine learning projects etc.
 - 📫 How to reach me via @bensah, https://www.linkedin.com/in/nsah-bernard
